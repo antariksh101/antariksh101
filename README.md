@@ -6,7 +6,7 @@ Software Developer | Full-Stack Engineer | AI/ML & GANs Enthusiast | Problem Sol
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=900&lines=Software+Developer;Full-Stack+Engineer+(MERN);AI%2FML+%26+Computer+Vision+Enthusiast;Pix2Pix+GAN+Developer;700%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=900&lines=Software+Developer;Full-Stack+Engineer+(MERN);AI%2FML+%26+Computer+Vision+Enthusiast;Pix2Pix+GAN+Developer;800%2B+DSA+Problems+Solved" />
 </p>
 
 <p align="center">
